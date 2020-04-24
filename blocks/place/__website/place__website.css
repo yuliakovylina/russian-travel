@@ -1,0 +1,29 @@
+@import url('./__url-heading/place__website__url-heading.css');
+@import url('./__link/place__website__link.css');
+
+.place__website {
+    max-width: 456px;
+    margin-left: 40px;
+    margin-bottom: 48px;
+}
+
+@media screen and (max-width: 1024px) {
+    .place__website {
+        margin-left: 32px;
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__website {
+        margin-left: 24px;
+        max-width: 352px;
+    }
+}
+
+@media screen and (max-width: 630px) {
+    .place__website {
+        display: none;
+    }
+}
+
