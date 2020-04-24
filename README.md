@@ -3,6 +3,8 @@ My_third_web-developing_project III 24/04/2020
 **III Project: Путешествие по России**
 ---------------------------------------
 
+**Проект находится здесь** https://yuliakovylina.github.io/russian-travel/index.html
+
 **Описание**
 
 Моя проектная работа, которую я выполняла, обучаясь в Яндекс Практикуме. 
