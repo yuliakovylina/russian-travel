@@ -9,21 +9,19 @@
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     margin-left: 148px;
     margin-right: 148px;
-    margin-bottom: 114px;
+    margin-bottom: 92px;
 }
 
 
 
-@media screen and (min-width: 1024px) 
-and (max-width: 1279px) {
+@media screen and (max-width: 1024px) {
     .lead {
         margin-left: 48px;
         margin-right: 48px;
-        margin-bottom: 92px;
     }
 }
 
@@ -31,13 +29,13 @@ and (max-width: 1279px) {
     .lead {
         margin-left: 0;
         margin-right: 0;
-        margin-bottom: 110px;
+        margin-bottom: 88px;
     }
 }
 @media screen and (max-width: 767px) {
     .lead {
         margin-left: 2px;
         margin-right: 2px;
-        margin-bottom: 0;
+        margin-bottom: 64px;
     }
 }
