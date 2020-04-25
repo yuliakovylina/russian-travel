@@ -14,7 +14,6 @@
     align-items: center;
     text-decoration: none;
     color: white;
-    border: 1px solid green;
 }
 
 .cover__overlay:before {
