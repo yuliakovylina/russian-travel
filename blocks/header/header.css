@@ -1,12 +1,13 @@
-@import url(./__content/header__content.css);
 @import url(./__logo/header__logo.css);
 @import url(./__langs/header__langs.css);
 @import url(./__lang/header__lang.css);
 @import url(./__lang-link/header__lang-link.css);
-@import url(./__lang-link/_Ru/header__lang-link_Ru.css);
+@import url(./__lang-link/_mod/header__lang-link_mod.css);
 
 
 .header { 
+    display: flex;
+    justify-content: space-between;
     padding: 0 48px 56px;
 }
 

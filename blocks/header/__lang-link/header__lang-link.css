@@ -1,7 +1,4 @@
-@import url(./_Ru/header__lang-link_Ru.css);
-
 .header__lang-link {
-    font-family: 'Inter';
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -14,6 +11,8 @@
 
 .header__lang-link:hover {
     opacity: 0.8;
+    -webkit-transition: all 0.5s linear;
+    transition: all 0.5s linear;
 }
 
 @media screen and (max-width: 450px) {
